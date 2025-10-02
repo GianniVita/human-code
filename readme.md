@@ -18,21 +18,21 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
     - ALLORA Scrivo il cibo del cane e la scrivo
         
 ## 2. Prepararsi per uscire 
-    - Mi vesto
-    - Prendo portafoglio
-    - Prendo i coupon
-    - Porto la lista compilata
-        - Faccio un check ed esco 
+- Mi vesto
+- Prendo portafoglio
+- Prendo i coupon
+- Porto la lista compilata
+    - Faccio un check ed esco 
      
 
 
 ## 3.Andare al supermercato
-    - Esco dal palazzo
-    - Scelgo il supermercato
-        - SE il supermercato è vicino mi dirigo a piedi
-        - ALTRIMENTI predi un mezzo 
-    - Prendo un carrello
-    - Entro dentro il supermercato
+- Esco dal palazzo
+- Scelgo il supermercato
+    - SE il supermercato è vicino mi dirigo a piedi
+    - ALTRIMENTI predi un mezzo 
+        - Prendo un carrello
+        - Entro dentro il supermercato
 
 
 ## 4.Fare la spesa
@@ -49,12 +49,12 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 
 
 ## 5.Ritorno a casa
-    - Vado alla casa
-    - Pago con i coupon
-    - Esco dal Supermercato
-        - SE ho preso l'auto per andar al super mercato la riprendo
-    - ALTRIMENTI Corro verso casa
-    - Entro a  casa
+- Vado alla casa
+- Pago con i coupon
+- Esco dal Supermercato
+    - SE ho preso l'auto per andar al super mercato la riprendo
+        - ALTRIMENTI Corro verso casa
+    - Entro a casa
     - Sistemo la spesa
     - E vado a dormire
              
